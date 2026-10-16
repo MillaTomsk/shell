@@ -29,14 +29,14 @@ unzip -q rawdata.zip
 
 # 1. Create a directory named data
 
-Ok this is a command to make a new directory 
+Test test
 
 # 2. Move the ./rawdata directory to ./data/raw (eg. move it into ./data and rename it to raw)
 
 This is the command to move raw data directory to raw folder
 
 # 3. List the contents of the ./data/raw directory
-
+What contencts do you need me to list??
 # 4. Create the directory ./data/processed, 
 #    then create the following sub-directories within it: server_logs, user_logs, and event_logs
 
